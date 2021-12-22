@@ -1,2 +1,5 @@
+Nama: Nur Rifdah
+Nim : 60900119009
+
 GitHub adalah sebuah platform untuk menyimpan source code anda di cloud. 
 Sourcetree adalah sebuah apliaksi untuk mengelolah souce code. Dengan apliaksi inianda bisa melakukan semua hal yang dibutuhkan untuk mengelolah kode.
